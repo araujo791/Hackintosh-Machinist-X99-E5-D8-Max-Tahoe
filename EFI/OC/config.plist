@@ -806,6 +806,24 @@
                 </dict>
                 <dict>
                     <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>SATA-unsupported.kext</string>
+                    <key>Comment</key>
+                    <string>V0.9.2</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string></string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
                     <string>x86_64</string>
                     <key>BundlePath</key>
                     <string>RealtekRTL8111.kext</string>
@@ -1312,7 +1330,7 @@
             <key>APFS</key>
             <dict>
                 <key>EnableJumpstart</key>
-                <false/>
+                <true/>
                 <key>GlobalConnect</key>
                 <false/>
                 <key>HideVerbose</key>
@@ -1392,43 +1410,7 @@
                     <key>LoadEarly</key>
                     <false/>
                     <key>Path</key>
-                    <string>apfs_aligned.efi</string>
-                </dict>
-                <dict>
-                    <key>Arguments</key>
-                    <string></string>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>LoadEarly</key>
-                    <false/>
-                    <key>Path</key>
-                    <string>HfsPlus.efi</string>
-                </dict>
-                <dict>
-                    <key>Arguments</key>
-                    <string></string>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>LoadEarly</key>
-                    <false/>
-                    <key>Path</key>
                     <string>OpenCanopy.efi</string>
-                </dict>
-                <dict>
-                    <key>Arguments</key>
-                    <string></string>
-                    <key>Comment</key>
-                    <string></string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>LoadEarly</key>
-                    <false/>
-                    <key>Path</key>
-                    <string>OpenRuntime.efi</string>
                 </dict>
                 <dict>
                     <key>Arguments</key>
@@ -1465,6 +1447,30 @@
                     <false/>
                     <key>Path</key>
                     <string>FirmwareSettingsEntry.efi</string>
+                </dict>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>LoadEarly</key>
+                    <false/>
+                    <key>Path</key>
+                    <string>OpenRuntime.efi</string>
+                </dict>
+                <dict>
+                    <key>Arguments</key>
+                    <string></string>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>LoadEarly</key>
+                    <false/>
+                    <key>Path</key>
+                    <string>OpenHfsPlus.efi</string>
                 </dict>
             </array>
             <key>Input</key>
