@@ -361,7 +361,7 @@
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,1,0/0,0</string>
                     <key>built-in</key>
-                    <data>AAAA</data>
+                    <data>AQAAAA==</data>
                     <key>device_type</key>
                     <string>Non-Volatile memory controller</string>
                     <key>model</key>
@@ -381,7 +381,7 @@
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,1,1/0,0</string>
                     <key>built-in</key>
-                    <data>AAAA</data>
+                    <data>AQAAAA==</data>
                     <key>device_type</key>
                     <string>Non-Volatile memory controller</string>
                     <key>model</key>
@@ -400,8 +400,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,17,4</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>SATA controller</string>
                     <key>model</key>
@@ -411,8 +409,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,20,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>USB controller</string>
                     <key>model</key>
@@ -431,8 +427,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,22,1</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>Communication controller</string>
                     <key>model</key>
@@ -442,8 +436,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,26,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>USB controller</string>
                     <key>model</key>
@@ -453,8 +445,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,28,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>PCI bridge</string>
                     <key>model</key>
@@ -464,8 +454,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,28,3</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>PCI bridge</string>
                     <key>model</key>
@@ -477,8 +465,6 @@
                     <data>AAAWFg==</data>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,28,3/0,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>Ethernet controller</string>
                     <key>model</key>
@@ -488,8 +474,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,28,7</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>PCI bridge</string>
                     <key>model</key>
@@ -499,8 +483,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,28,7/0,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>Ethernet controller</string>
                     <key>model</key>
@@ -510,8 +492,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,29,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>USB controller</string>
                     <key>model</key>
@@ -521,8 +501,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,31,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>ISA bridge</string>
                     <key>model</key>
@@ -532,8 +510,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,31,2</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>SATA controller</string>
                     <key>model</key>
@@ -543,8 +519,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,31,3</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>SMBus</string>
                     <key>model</key>
@@ -563,8 +537,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,3,0/0,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>USB controller</string>
                     <key>model</key>
@@ -610,8 +582,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@128,2,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>PCI bridge</string>
                     <key>model</key>
@@ -621,8 +591,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@128,2,0/0,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>VGA compatible controller</string>
                     <key>model</key>
@@ -632,8 +600,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@128,5,0</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>System peripheral</string>
                     <key>model</key>
@@ -643,8 +609,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@128,5,1</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>System peripheral</string>
                     <key>model</key>
@@ -654,8 +618,6 @@
                 <dict>
                     <key>AAPL,slot-name</key>
                     <string>Internal@128,5,2</string>
-                    <key>built-in</key>
-                    <data>AAAA</data>
                     <key>device_type</key>
                     <string>System peripheral</string>
                     <key>model</key>
@@ -815,6 +777,24 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string></string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>CtlnaAHCIPort.kext</string>
+                    <key>Comment</key>
+                    <string>V341.0.2</string>
+                    <key>Enabled</key>
+                    <false/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/CtlnaAHCIPort</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -1207,7 +1187,7 @@
                     <key>revcpuname</key>
                     <string>Intel(R) Xeon(R) E5-2680 v4</string>
                     <key>revpatch</key>
-                    <string>sbvmm,cpuname,bluetooth,wifi</string>
+                    <string>sbvmm,cpuname,wifi</string>
                     <key>rtc-blacklist</key>
                     <data></data>
                 </dict>
